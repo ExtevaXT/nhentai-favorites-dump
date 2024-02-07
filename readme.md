@@ -1,5 +1,5 @@
 ## Usage
-Open devtools by `Ctrl+Shift+C` or `Ctrl+Shift+I` or `Right-click -> Inspect`
+Open devtools on [https://nhentai.net](https://nhentai.net) by `Ctrl+Shift+C` or `Ctrl+Shift+I` or `Right-click -> Inspect`
 
 Take out that 2 values from `Application -> Cookies -> https://nhentai.net`
 ```js
@@ -14,7 +14,7 @@ Increase rate if it returns `Too many requests`
 const rate = 10
 ```
 
-It will download json with that format. You can find most doujins by `fullTitle` on e-hentai or sukebei
+It will download json with that format. You can find most doujins by `fullTitle` on e-hentai or sukebei or hitomi
 ```json
 [
   {
